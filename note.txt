@@ -1,0 +1,6 @@
+product name
+id
+desciption
+qty
+price 
+image
